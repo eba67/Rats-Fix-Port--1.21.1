@@ -2,8 +2,7 @@ Unofficial Port and Fix of Rats Mod by AlexModGuy
 
 Original mod by : https://github.com/AlexModGuy
 Unofficial Port by : https://github.com/DearDanielr
-
-
+__________________________________________________
 
 FIXED Crash when try to trade with plague doctor
 
